@@ -1,46 +1,206 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is AMAL T SCARIA
-=====================================================================================================================================
+# Hi there! 👋 I'm **AMAL T SCARIA**
 
-Full Stack Developer
---------------------
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=440&lines=Full+Stack+MERN+Developer;1%2B+Years+Experience;Microservices+Enthusiast;Cloud+%26+DevOps+Explorer" alt="Typing SVG" />
+</div>
 
-"Aspiring full stack developer with strong fundamentals in web development, proficient in programming languages such as JavaScript and Java , and experienced in popular frameworks like React and Node.js. Passionate about building scalable and user-friendly web applications."
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=amaltscaria&label=Profile%20views&color=667eea&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/amaltscaria?label=Followers&style=social" alt="GitHub Followers" />
+</div>
 
-*   🌍  I'm based in Kerala, India.
-*   🖥️  See my portfolio at [amaltscaria.in](http://amaltscaria.in/)
-*   🧠  I'm learning React.
-*   🤝  I'm open to collaborating on projects.
-*   ⚡  Balancing a love for coding with a passion for football.### Skills 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-</p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.facebook.com/amaltscaria" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/amaltscaria" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/amal.t,scaria" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/amaltscaria" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/amaltscaria" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/amaltscaria"><img src="https://github-readme-stats.vercel.app/api?username=amaltscaria&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="amaltscaria's GitHub stats" /></a><a
-                      href="http://www.github.com/amaltscaria"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=amaltscaria&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/amaltscaria"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=amaltscaria&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/amaltscaria" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaltscaria&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+## 🚀 About Me
+
+> **"Building scalable web applications with modern technologies and clean architecture"**
+
+- 🌍 **Location:** Bengaluru, India | Originally from Kerala
+- 💼 **Current Role:** Full Stack MERN Developer at We Grow Forest Foundation
+- 🎓 **Education:** B.Tech in Computer Science Engineering (8.31 CGPA)
+- 🌱 **Currently Learning:** Advanced React patterns, Kubernetes, AWS microservices
+- 🤝 **Open to:** Collaborating on innovative projects and open-source contributions
+- ⚡ **Fun Fact:** I balance my love for coding with a passion for football ⚽
+- 🌐 **Portfolio:** [amaltscaria.in](https://amaltscaria.in)
+
+---
+
+## 🛠️ **Tech Stack & Expertise**
+
+<div align="center">
+
+### 🎨 **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+### ⚙️ **Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+### 🗄️ **Databases & Caching**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### ☁️ **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### 🔧 **Tools & Others**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+
+</div>
+
+---
+
+## 💼 **Professional Experience**
+
+### 🌱 **Full Stack MERN Developer** | *We Grow Forest Foundation*
+**📅 Mar 2024 - June 2025** | 🌐 [wegrowforest.org](https://wegrowforest.org)
+
+- 🏗️ **Architected** scalable backend systems using **Clean Architecture** principles
+- 🚀 **Deployed** production applications with **99.9%+ uptime** using PM2 and VPS
+- 💳 **Integrated** payment gateways (Razorpay, Stripe) with webhook implementations
+- 🧪 **Achieved** 85%+ code coverage through comprehensive testing strategies
+- 📊 **Collaborated** with cross-functional teams following Agile methodology
+- 🔄 **Built** real-time communication features using Socket.IO and WebSocket
+
+---
+
+## 🎯 **Featured Projects**
+
+<div align="center">
+
+### 🤝 **Caring Hands** - Service Booking Platform
+**🛠️ MERN Stack | Microservices | Docker | AWS**
+
+> Comprehensive service marketplace connecting skill-verified providers with customers
+
+- 🏢 **Architecture:** 6 independent TypeScript microservices
+- 💰 **Payments:** Stripe integration with webhook handling
+- 📨 **Messaging:** RabbitMQ/Kafka for event-driven communication
+- 🧪 **Testing:** 90% test coverage with comprehensive testing
+- 🚀 **Deployment:** Docker containers on AWS with Kubernetes
+
+---
+
+### 🌿 **Plantly** - E-commerce Platform
+**🛠️ Node.js | MongoDB | Razorpay | AWS**
+
+> Plant and gardening e-commerce platform with comprehensive admin analytics
+
+- 🎨 **Architecture:** MVC pattern with dual interfaces
+- 📊 **Analytics:** 3 different chart types for performance metrics
+- 💳 **Payments:** Razorpay integration with 3+ payment methods
+- 🛒 **Features:** Wishlist system, 3-step checkout, advanced filtering
+- ⚖️ **Hosting:** AWS with Nginx load balancing
+
+</div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amaltscaria&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaltscaria&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=ffffff"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaltscaria&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=667EEA&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=667EEA&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amaltscaria&theme=tokyo-night&bg_color=0D1117&color=667EEA&line=667EEA&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
+
+---
+
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amaltscaria&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📈 **Contribution Graph**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amaltscaria&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=ffffff" alt="Wakatime Stats"/>
+</div>
+
+---
+
+## 🎓 **Certifications & Learning**
+
+- 🌐 **The Complete Web Development Bootcamp** by Angela Yu
+- ⚛️ **React: The Complete Guide** by Maximilian Schwarzmuller  
+- 🧪 **JavaScript Unit Testing** by Maximilian Schwarzmuller
+- 🏗️ **Brototype Full Stack Development** - MERN Program
+- 🎯 **AWS Cloud Practitioner** (In Progress)
+
+---
+
+## 🌐 **Connect With Me**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaltscaria)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://amaltscaria.in)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaltscaria22@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/amaltscaria)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amal.t.scaria)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/amaltscaria)
+
+</div>
+
+---
+
+## 💡 **Current Goals**
+
+- 🎯 **2025 Objectives:**
+  - 🚀 Master Kubernetes and advanced AWS services
+  - 🌟 Contribute to 5+ open-source projects
+  - 📚 Complete AWS Solutions Architect certification
+  - 🔧 Build a SaaS product from scratch
+  - 🌐 Launch a tech blog sharing development insights
+
+---
+
+## 📫 **Let's Build Something Amazing Together!**
+
+<div align="center">
+  
+💼 **Available for:** Freelance Projects | Full-time Opportunities | Open Source Collaborations
+
+📧 **Email:** amaltscaria22@gmail.com  
+📱 **Phone:** +91 9778742719  
+🌍 **Location:** Bengaluru, India  
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=667EEA&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+</div>
+
+<div align="center">
+  <i>⭐ From <a href="https://github.com/amaltscaria">amaltscaria</a> with ❤️</i>
+</div>
